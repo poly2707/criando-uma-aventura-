@@ -1,0 +1,16 @@
+body {
+    background-color: hwb(294 64% 25%);
+    color: white;
+    font-family: "New Amsterdam", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+ button{ 
+        background-color: rgb(166, 123, 207);
+        color: black;
+        font-family: "New Amsterdam", sans-serif;
+}
